@@ -1,5 +1,7 @@
-<img src="Resources\LOGO-CON.png" alt="LETIF">
+<div align="center">
+<img src="Resources\LOGO-CON.png" alt="LETIF"  width=50% >
 <br>
+</div>
 <div align="center">
 
 # Econometría en Julia 
