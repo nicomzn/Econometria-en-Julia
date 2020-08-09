@@ -1,4 +1,4 @@
-<img src="Resources\LOGO-CON.png" alt="LETIF"	width="400" height="400" /
+<img src="Resources\LOGO-CON.png" alt="LETIF"	width="400" height="400">
 <br>
 <div align="center">
 
